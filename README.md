@@ -6,4 +6,3 @@ $${\color{#704064}𝐃𝐞𝐯𝐢𝐨𝐮𝐬 𝐃𝐮𝐨}$$
 
 $${\color{#704064}art by @twow09 in x!}$$
 
-![<img width="733" height="258" alt="Image" src="https://github.com/user-attachments/assets/3629e7b1-770f-40e2-abf9-c8f7495cabd5" />](https://kaivierrx.straw.page)
