@@ -9,7 +9,8 @@
 
 <img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/ccb78894-8f64-415f-93bc-324eaf3c9661" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=-1px&pause=1000&color=704064&center=true&vCenter=true&width=435&lines=%22%F0%9D%90%88+%F0%9D%90%B0%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5+%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%AD+%F0%9D%90%B2%F0%9D%90%A8%F0%9D%90%AE+%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%AD+%F0%9D%90%A8%F0%9D%90%9F+%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%AC.;%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9D+%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9B%F0%9D%90%9E+%F0%9D%90%88+%F0%9D%90%B0%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5+%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9E+%F0%9D%90%B2%F0%9D%90%A8%F0%9D%90%AE+%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7.;%F0%9D%90%81%F0%9D%90%AE%F0%9D%90%AD+%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%A7%F0%9D%90%A8%F0%9D%90%B0%2C+%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AC+%F0%9D%90%A0%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9B%F0%9D%90%B2%F0%9D%90%9E.%22)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=24&duration=4000&pause=1000&color=4D44AD&center=true&vCenter=true&width=435&lines=%C9%B4%E1%B4%9C%CA%9F%CA%9F%2C+%C9%AA+%CA%9C%E1%B4%80%E1%B4%A0%E1%B4%87+%E1%B4%85%E1%B4%87%EA%9C%B0%E1%B4%87%E1%B4%80%E1%B4%9B%E1%B4%87%E1%B4%85+%E1%B4%8A%E1%B4%80%E1%B4%8D%E1%B4%80%E1%B4%9B%E1%B4%8F%2C;%E1%B4%80%C9%B4%E1%B4%85+%C9%AA'%E1%B4%8D+%CA%8F%E1%B4%8F%E1%B4%9C%CA%80+%CA%80%C9%AA%C9%A2%CA%9C%E1%B4%9B%EA%9C%B0%E1%B4%9C%CA%9F+%CA%9F%E1%B4%87%E1%B4%80%E1%B4%85%E1%B4%87%CA%80.%22+)](https://git.io/typing-svg)
 
 <img width="236" height="316" alt="Image" src="https://github.com/user-attachments/assets/0cd3cdb6-62fb-4563-a0ec-f143751de51a" />
 
