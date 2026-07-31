@@ -5,7 +5,7 @@
 </p>
 
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=spokelings%20&color=704064&style=flat" alt="xhaevn" /> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=nullings%20&color=4D44AD&style=flat" alt="xhaevn" /> </p>
 
 <img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/ccb78894-8f64-415f-93bc-324eaf3c9661" />
 
@@ -13,6 +13,6 @@
 
 <img width="236" height="316" alt="Image" src="https://github.com/user-attachments/assets/0cd3cdb6-62fb-4563-a0ec-f143751de51a" />
 
-$${\color{#704064}art by @twow09 in x!}$$
+$${\color{#4D44AD}art by @kkirbvo in x!}$$
 
 [atabook](https://whisperyyy.atabook.org/)
