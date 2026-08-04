@@ -16,4 +16,4 @@
 
 $${\color{#4D44AD}art by @kkirbvo in x!}$$
 
-[atabook](https://whisperyyy.atabook.org/)
+[atabook](https://spiralyxx.atabook.org/)
