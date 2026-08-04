@@ -14,6 +14,4 @@
 
 <img width="598" height="417" alt="Image" src="https://github.com/user-attachments/assets/6b8269ae-9fb0-4c7b-86bc-9e2b8c93d9b6" />
 
-$${\color{#4D44AD}art by @kkirbvo in x!}$$
-
 [atabook](https://spiralyxx.atabook.org/)
