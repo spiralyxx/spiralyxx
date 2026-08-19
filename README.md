@@ -12,4 +12,9 @@ $\color{darkblue}{\textsf{Iㅤlookedㅤinㅤtheㅤmirrorㅤandㅤsawㅤtheㅤper
 
 <img width="523" height="477" alt="Image" src="https://github.com/user-attachments/assets/90edf509-609f-4f67-893a-5baacc36ef29" />
 
+$\color{darkred}{\textsf{Mapicc...ㅤIㅤwillㅤgetㅤyouㅤoutㅤofㅤthis.ㅤ}}$ㅤㅤ
+$\color{white}{\textsf{AndㅤmaybeㅤIㅤwillㅤseeㅤyouㅤagain,ㅤ}}$ㅤㅤ
+
+$\color{darkblue}{\textsf{butㅤforㅤnow...ㅤIt'sㅤgoodbye.ㅤ}}$ㅤ
+
 [atabook](https://spiralyxx.atabook.org/)
