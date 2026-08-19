@@ -11,6 +11,6 @@
 <img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/20e21dcb-0447-4fec-9d9a-29e2344586ba" />
 
 
-<img width="474" height="527" alt="Image" src="https://github.com/user-attachments/assets/8d2b9c87-032f-4246-bbf1-5fe6fa6c03b9" />
+<img width="523" height="477" alt="Image" src="https://github.com/user-attachments/assets/90edf509-609f-4f67-893a-5baacc36ef29" />
 
 [atabook](https://spiralyxx.atabook.org/)
