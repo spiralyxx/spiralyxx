@@ -5,7 +5,7 @@
 </p>
 
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=froggies%20&color=2E0404&style=flat" alt="xhaevn" /> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=nullings%20&color=2E0404&style=flat" alt="xhaevn" /> </p>
 
 $\color{darkblue}{\textsf{IㅤlookedㅤinㅤtheㅤmirrorㅤandㅤsawㅤtheㅤpersonㅤIㅤspentㅤyearsㅤtryingㅤnotㅤtoㅤbecome.ㅤ}}$
 
