@@ -7,9 +7,7 @@
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=froggies%20&color=2E0404&style=flat" alt="xhaevn" /> </p>
 
-
-
-<img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/20e21dcb-0447-4fec-9d9a-29e2344586ba" />
+$\color{darkblue}{\textsf{IㅤlookedㅤinㅤtheㅤmirrorㅤandㅤsawㅤtheㅤpersonㅤIㅤspentㅤyearsㅤtryingㅤnotㅤtoㅤbecome.ㅤ}}$
 
 
 <img width="523" height="477" alt="Image" src="https://github.com/user-attachments/assets/90edf509-609f-4f67-893a-5baacc36ef29" />
