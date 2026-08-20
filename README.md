@@ -17,4 +17,6 @@ $\color{white}{\textsf{AndㅤmaybeㅤIㅤwillㅤseeㅤyouㅤagain,ㅤ}}$ㅤㅤ
 
 $\color{darkblue}{\textsf{butㅤforㅤnow...ㅤIt'sㅤgoodbye.ㅤ}}$ㅤ
 
+$\color{lightpink}{\textsf{Dc:ㅤ.n1ghtshxde. }}$ㅤ
+
 [atabook](https://spiralyxx.atabook.org/)
